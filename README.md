@@ -34,7 +34,7 @@ JS-Animations-With-GSAP/
 Explore each project here:
 | #   | Project Name                 | Live Demo                             |
 | --- | ---------------------------- | ------------------------------------- |
-| 01. | JS\_Animation                | [Live Demo](https://your-link-01.com) |
+| 01. | JS\_Animation                | [Live Demo](https://abdul-sami-abbasi.github.io/JS-Animations-With-GSAP/01.JS_Animation)|
 | 02. | Tweens                       | [Live Demo](https://your-link-02.com) |
 | 03. | Set\_Method                  | [Live Demo](https://your-link-03.com) |
 | 04. | from\_and\_from\_to\_Methods | [Live Demo](https://your-link-04.com) |
