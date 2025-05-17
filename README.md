@@ -35,10 +35,10 @@ Explore each project here:
 | #   | Project Name                 | Live Demo                             |
 | --- | ---------------------------- | ------------------------------------- |
 | 01. | JS\_Animation                | [Live Demo](https://abdul-sami-abbasi.github.io/JS-Animations-With-GSAP/01.JS_Animation)|
-| 02. | Tweens                       | [Live Demo](https://your-link-02.com) |
-| 03. | Set\_Method                  | [Live Demo](https://your-link-03.com) |
-| 04. | from\_and\_from\_to\_Methods | [Live Demo](https://your-link-04.com) |
-| 05. | Staggers                     | [Live Demo](https://your-link-05.com) |
-| 06. | controling\_tweens           | [Live Demo](https://your-link-06.com) |
-| 07. | timelines                    | [Live Demo](https://your-link-07.com) |
-| 08. | Simple-Project               | [Live Demo](https://your-link-08.com) |
+| 02. | Tweens                       | [Live Demo](https://abdul-sami-abbasi.github.io/JS-Animations-With-GSAP/02.Tweens) |
+| 03. | Set\_Method                  | [Live Demo](https://abdul-sami-abbasi.github.io/JS-Animations-With-GSAP/03.Set_Method) |
+| 04. | from\_and\_from\_to\_Methods | [Live Demo](https://abdul-sami-abbasi.github.io/JS-Animations-With-GSAP/04.from_and_from_to_Methods) |
+| 05. | Staggers                     | [Live Demo](https://abdul-sami-abbasi.github.io/JS-Animations-With-GSAP/05.Straggers) |
+| 06. | controling\_tweens           | [Live Demo](https://abdul-sami-abbasi.github.io/JS-Animations-With-GSAP/06.Controlling_tweens) |
+| 07. | timelines                    | [Live Demo](https://abdul-sami-abbasi.github.io/JS-Animations-With-GSAP/07.timelines) |
+| 08. | Simple-Project               | [Live Demo](https://abdul-sami-abbasi.github.io/JS-Animations-With-GSAP/08.Simple-Project) |
